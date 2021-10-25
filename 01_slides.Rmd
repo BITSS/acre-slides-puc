@@ -155,9 +155,7 @@ name: motivation
 ]
 
 ---
-background-image: url("Images/iceberg.jpg")
-background-size: 50%
-background-position: 100% 50%
+count:false
 # .font90[M2: More Inclusive Concept Scholarly Output]     
 
 
@@ -328,9 +326,7 @@ name: guidelines
 - AEA updates [policy in 2019](https://www.aeaweb.org/journals/policies/data-code/). 
     - Must post all data and code. Publication is conditional on verifying reproducibility (if confidential: must document extensively) 
     - A new requirement is to post all cleaning code, even for data that is not public
-    - See Lars Vilhuber's presentation after this one (same zoom channel) for more information 
 --
-x
 - We should expect high levels of computational reproducibility after 2019 (AEA). 
 --
 
